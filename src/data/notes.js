@@ -7,7 +7,7 @@ export const SITE_CONFIG = {
   name: 'CodeNotes',
 
   // Instagram handle — without @
-  instagramHandle: '@tech.de_code',
+  instagramHandle: 'tech.de_code',
 
   // Instagram profile URL
   instagramUrl: 'https://instagram.com/tech.de_code',
