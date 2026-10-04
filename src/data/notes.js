@@ -7,16 +7,16 @@ export const SITE_CONFIG = {
   name: 'CodeNotes',
 
   // Instagram handle — without @
-  instagramHandle: '@techi',
+  instagramHandle: '@tech.de_code',
 
   // Instagram profile URL
-  instagramUrl: 'https://instagram.com/yourhandle',
+  instagramUrl: 'https://instagram.com/tech.de_code',
 
   // Tagline
   tagline: 'Simple coding notes for developers.',
 
   // SEO
-  siteUrl: 'https://yournotes.dev',
+  siteUrl: 'https://tech.de-code.vercel.app',
 
   description:
     'Free coding notes created for developers who prefer simple explanations and clean visuals.',
@@ -97,37 +97,6 @@ export const NOTES = [
       reactNotesPages.length,
 
     date: '2026-10-03',
-  },
-
-  {
-    id: 'mern-architecture',
-
-    title: 'MERN Architecture',
-
-    category: 'MERN',
-
-    description:
-      'How the frontend, backend and database connect.',
-
-    thumbnail:
-      '/notes/mern-architecture-1.jpg',
-
-    pages: [
-      '/notes/mern-architecture-1.jpg',
-    ],
-
-    tags: [
-      'mern',
-      'mongodb',
-      'express',
-      'react',
-      'nodejs',
-      'fullstack',
-    ],
-
-    pageCount: 1,
-
-    date: '2026-09-28',
   },
 ];
 
