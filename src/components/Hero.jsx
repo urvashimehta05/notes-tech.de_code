@@ -108,9 +108,9 @@ export default function Hero() {
       {/* Scroll indicator */}
       <div className="absolute bottom-8 left-1/2 -translate-x-1/2 animate-fade-in">
         <div className="flex flex-col items-center gap-2 text-charcoal-300">
-          <span className="text-[0.7rem] tracking-widest uppercase">
+          {/* <span className="text-[0.7rem] tracking-widest uppercase">
             Scroll
-          </span>
+          </span> */}
           <svg
             className="h-4 w-4 animate-bounce"
             fill="none"
